@@ -32,11 +32,15 @@ Using Convolutional Neural Network, I have implemented a classifier which detect
     Trainable params: 1,457,537
     Non-trainable params: 0
     
+## Accuracy
+![](MediaImages/Accuracy.PNG)
+
 ## Confusion Matrix (0 for Positive and 1 for Negative cases)
-![](MediaImages/Confusion.PNG)
+![](MediaImages/New_Confusion_Matrix.PNG)
 
 ## Prediction of Covid-19 Positive Case
-![](MediaImages/Positive.PNG)
+![](MediaImages/Poisi_Out.PNG)
 
 ## Prediction of Covid-19 Negative Case
-![](MediaImages/Negative.PNG)
+![](MediaImages/Negi_Out.PNG)
+
